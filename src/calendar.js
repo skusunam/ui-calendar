@@ -14,7 +14,7 @@ angular.module('ui.calendar', [])
   // Configure to use locale names by default
   var tValues = function(data) {
     // convert {0: "Jan", 1: "Feb", ...} to ["Jan", "Feb", ...]
-    var r, k;
+    var r, k,z;
     r = [];
     for (k in data) {
       r[k] = data[k];
