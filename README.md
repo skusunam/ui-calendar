@@ -34,7 +34,7 @@ To your `components.json` file. Then run
 This will copy the ui-calendar files into your `components` folder, along with its dependencies. Load the script files in your application:
 
     <script type="text/javascript" src="components/jquery/jquery.js"></script>
-    <script type="text/javascript" src="components/jquery-ui\ui\jquery-ui.custom.js"></script>
+    <script type="text/javascript" src="components/jquery-ui/ui/jquery-ui.custom.js"></script>
     <script type="text/javascript" src="components/angular/angular.js"></script>
     <script type="text/javascript" src="components/angular-ui-calendar/calendar.js"></script>
 
