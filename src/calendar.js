@@ -6,6 +6,7 @@
 *       Can also take in multiple event urls as a source object(s) and feed the events per view.
 *       The calendar will watch any eventSource array and update itself when a change is made.
 *
+* Author - Ankur Patel
 */
 
 angular.module('ui.calendar', [])
